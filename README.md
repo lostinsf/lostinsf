@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm lostinsf</h1>
+<h1 align="center">Hello~ 😄, I'm lostinsf</h1>
 <h3 align="center">A hungry developer from busan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Good health and fortune to all~</h3>
 <p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostinsf&show_icons=true&theme=radical)
