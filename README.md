@@ -4,11 +4,11 @@
 <h3 align="left">Good health and fortune to all~</h3>
 <p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lostinsf&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lostinsf&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lostinsf&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lostinsf&theme=github_dark)
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=lostinsf&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=lostinsf&theme=tokyonight)
 
 </p>
 
