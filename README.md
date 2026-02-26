@@ -4,7 +4,7 @@
 <h3 align="left">Good health and fortune to all~</h3>
 <p>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lostinsf&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=lostinsf&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lostinsf&theme=github_dark)
 
